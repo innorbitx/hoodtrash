@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoodtrash/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/hoodtrash/static/js/main.0be7ca50.chunk.js",
+    "main.js.map": "/hoodtrash/static/js/main.0be7ca50.chunk.js.map",
+    "runtime-main.js": "/hoodtrash/static/js/runtime-main.128381b8.js",
+    "runtime-main.js.map": "/hoodtrash/static/js/runtime-main.128381b8.js.map",
+    "static/js/2.f139d298.chunk.js": "/hoodtrash/static/js/2.f139d298.chunk.js",
+    "static/js/2.f139d298.chunk.js.map": "/hoodtrash/static/js/2.f139d298.chunk.js.map",
+    "static/js/3.e658eedd.chunk.js": "/hoodtrash/static/js/3.e658eedd.chunk.js",
+    "static/js/3.e658eedd.chunk.js.map": "/hoodtrash/static/js/3.e658eedd.chunk.js.map",
+    "index.html": "/hoodtrash/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/hoodtrash/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f139d298.chunk.js.LICENSE.txt": "/hoodtrash/static/js/2.f139d298.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/hoodtrash/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.128381b8.js",
+    "static/js/2.f139d298.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0be7ca50.chunk.js"
+  ]
+}
